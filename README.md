@@ -1,3 +1,5 @@
+-- vSoka Scripts informations --
+
 Se dossier sera utilisé pour stocker tous les sripts partagé que j'aurais créer 😋!
 Petit indications importantes que j'aimerais mettre en place par rapport à mes scripts:
 
